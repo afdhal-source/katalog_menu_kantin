@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nama": "Nasi Goreng",
+    "harga": 12000,
+    "kategori": "Makanan",
+    "deskripsi": "Nasi goreng dengan telur dan kerupuk."
+  },
+  {
+    "id": 2,
+    "nama": "Mie Ayam",
+    "harga": 10000,
+    "kategori": "Makanan",
+    "deskripsi": "Mie ayam dengan topping ayam."
+  },
+  {
+    "id": 3,
+    "nama": "Es Teh",
+    "harga": 5000,
+    "kategori": "Minuman",
+    "deskripsi": "Minuman teh manis dingin."
+  },
+  {
+    "id": 4,
+    "nama": "Jus Jeruk",
+    "harga": 8000,
+    "kategori": "Minuman",
+    "deskripsi": "Jus jeruk segar."
+  },
+  {
+    "id": 5,
+    "nama": "Roti Bakar",
+    "harga": 7000,
+    "kategori": "Camilan",
+    "deskripsi": "Roti bakar dengan rasa cokelat."
+  }
+]
